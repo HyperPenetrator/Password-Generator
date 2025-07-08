@@ -1,6 +1,7 @@
 import random
 import string
 
+from password_generator import generate_password
 def generate_password(length, use_upper=True, use_digits=True, use_symbols=True):
     chars = list(string.ascii_lowercase)
     if use_upper:
