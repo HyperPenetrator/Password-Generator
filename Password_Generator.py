@@ -19,4 +19,4 @@ if __name__ == "__main__":
     use_upper = input("Use uppercase letters? (y/n): ").lower().startswith("y")
     use_digits = input("Use digits? (y/n): ").lower().startswith("y")
     use_symbols = input("Use symbols? (y/n): ").lower().startswith("y")
-    print(generate_password(length, use_upper, use_digits, use_symbols)
+    print(generate_password(length, use_upper, use_digits, use_symbols))
