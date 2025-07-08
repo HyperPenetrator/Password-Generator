@@ -1,7 +1,7 @@
 [![Python Tests](https://github.com/HyperPenetrator/Password-Generator/actions/workflows/python-tests.yml/badge.svg)](https://github.com/HyperPenetrator/Password-Generator/actions/workflows/python-tests.yml)
 # Simple Password Generator
 
-This is a beginner-friendly Python project: a simple Password Generator that lets you customize your password's complexity and automatically copies the generated password to your clipboard.
+This is a beginner-friendly Python project: a simple Password Generator that lets you customize your password's complexity.
 
 ## Features
 
@@ -10,7 +10,6 @@ This is a beginner-friendly Python project: a simple Password Generator that let
   - Uppercase letters
   - Digits
   - Symbols
-- Password is automatically copied to your clipboard
 
 ## Requirements
 
